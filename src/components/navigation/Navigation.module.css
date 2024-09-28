@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.navigation ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    list-style: none;
+    align-items: center;
+}
+
