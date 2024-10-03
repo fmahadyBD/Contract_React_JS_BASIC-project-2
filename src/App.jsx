@@ -8,8 +8,12 @@ function App() {
   return (
     <div>
       <Navigation />
+
       <HeaderSection />
       <Form />
+
+
+
     </div>
 
   );
